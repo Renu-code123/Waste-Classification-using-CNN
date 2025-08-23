@@ -35,4 +35,40 @@ This project demonstrates how AI can help build a cleaner and greener environmen
    ```python
    !pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python
 
+📊 Dataset
+
+We used a Waste Classification Dataset containing labeled images of different types of waste.
+Categories include:
+
+-🥗 Organic
+
+-🧴 Recyclable (Plastic, Paper, Glass, Metal, etc.)
+
+📈 Results
+
+-Achieved high accuracy on validation data
+-Plotted training vs validation curves
+
+🌍 Future Scope
+
+-Deploy as a Web/Mobile Application
+-Integrate with IoT Smart Bins
+-Improve the dataset with more real-world waste images
+
+👨‍💻 Team -LUMINO
+
+This project is proudly created by Team LUMINO 💡:
+
+✨ Renu Kumari Prajapati
+
+✨ Arushi Thakur
+
+✨ Kanupriya Varshney
+
+
+   
+   
+
+   
+
    
