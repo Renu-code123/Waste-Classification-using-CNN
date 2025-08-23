@@ -41,17 +41,21 @@ We used a Waste Classification Dataset containing labeled images of different ty
 Categories include:
 
 -🥗 Organic
+<br>
 -🧴 Recyclable (Plastic, Paper, Glass, Metal, etc.)
 
 📈 Results
 <br>
 -Achieved high accuracy on validation data
+<br>
 -Plotted training vs validation curves
 
 🌍 Future Scope
 <br>
 -Deploy as a Web/Mobile Application
+<br>
 -Integrate with IoT Smart Bins
+<br>
 -Improve the dataset with more real-world waste images
 
 👨‍💻 Team -LUMINO
@@ -59,7 +63,9 @@ Categories include:
 This project is proudly created by Team LUMINO 💡:
 <br>
 ✨ Renu Kumari Prajapati
+<br>
 ✨ Arushi Thakur
+<br>
 ✨ Kanupriya Varshney
 
 
