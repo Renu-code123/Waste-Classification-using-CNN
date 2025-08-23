@@ -44,16 +44,20 @@ Categories include:
 -🧴 Recyclable (Plastic, Paper, Glass, Metal, etc.)
 
 📈 Results
+<br>
 -Achieved high accuracy on validation data
 -Plotted training vs validation curves
 
 🌍 Future Scope
+<br>
 -Deploy as a Web/Mobile Application
 -Integrate with IoT Smart Bins
 -Improve the dataset with more real-world waste images
 
 👨‍💻 Team -LUMINO
+<br>
 This project is proudly created by Team LUMINO 💡:
+<br>
 ✨ Renu Kumari Prajapati
 ✨ Arushi Thakur
 ✨ Kanupriya Varshney
