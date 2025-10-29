@@ -58,17 +58,6 @@ Categories include:
 <br>
 -Improve the dataset with more real-world waste images
 
-👨‍💻 Team -LUMINO
-<br>
-This project is proudly created by Team LUMINO 💡:
-<br>
-✨ Renu Kumari Prajapati
-<br>
-✨ Arushi Thakur
-<br>
-✨ Kanupriya Varshney
-
-
    
    
 
