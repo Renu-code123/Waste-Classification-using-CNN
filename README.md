@@ -1,4 +1,3 @@
-
 # ♻️ Waste Classification using CNN  
 ## 📌 Project Overview  
 **Waste Classification using CNN** is a deep learning project built on **Google Colab** that classifies waste into different categories using **Convolutional Neural Networks (CNNs)**.  
@@ -6,6 +5,7 @@ The goal is to promote **efficient waste segregation**, which is crucial for **s
 
 This project demonstrates how AI can help build a cleaner and greener environment by automating the waste classification process. 
  
+
 
 ---
 
